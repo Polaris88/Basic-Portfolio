@@ -1,0 +1,13 @@
+h1 {
+	font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+	background-color: #ffffff;
+	color: teal;
+}
+.menu {
+	float: right;
+	display: inline;
+
+}
+#Connect {
+	float: right;
+}
